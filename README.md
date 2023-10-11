@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Welcome to My [Todo List App](https://jl991124-todo-list.netlify.app)! This project is built using **Vite**,**React**, **Typescript** and **MUI**.
+Welcome to My [Todo List App](https://jl991124-todo-list.netlify.app)! This project is built using **Vite**, **React**, **Typescript** and **MUI**.
 
 ## Usage <a name = "usage"></a>
 

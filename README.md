@@ -1,4 +1,5 @@
 # Todo list App
+
 ## Table of Contents
 
 - [Todo list App](#todo-list-app)
@@ -8,8 +9,7 @@
 
 ## About <a name = "about"></a>
 
-
-Welcome to My React Web App! This is a simple React application.
+Welcome to My [Todo List App](https://jl991124-todo-list.netlify.app)! This project is built using **Vite**,**React**, **Typescript** and **MUI**.
 
 ## Usage <a name = "usage"></a>
 
